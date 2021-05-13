@@ -3,7 +3,7 @@
 
 ### 👋 Hello there, I'm Antonio Busillo  
 
-I'm a Software Developer for @icadsistemi and I'm  studying for a master's degree in Computer Security at [University of Salerno](https://web.unisa.it/).
+I'm a Software Developer for [@icadsistemi](https://github.com/icadsistemi) and I'm  studying for a master's degree in Computer Security at [University of Salerno](https://web.unisa.it/).
 
 - 💻 Writing software mainly in Golang but looking for new languages to learn
 - 👨‍🏫 Currently studying for `AWS Certified Solutions Architect – Associate` and other certifications
