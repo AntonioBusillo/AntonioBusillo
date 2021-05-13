@@ -14,4 +14,4 @@ I'm a Software Developer for [@icadsistemi](https://github.com/icadsistemi) and 
 
 - 📸 [Instagram](https://www.instagram.com/antoniobusillo/)
 - 🐥 [Twitter](https://twitter.com/AntonioBusillo)
-- 💼 [Linkedin](www.linkedin.com/in/AntonioBusillo)
+- 💼 [Linkedin](https://www.linkedin.com/in/AntonioBusillo)
