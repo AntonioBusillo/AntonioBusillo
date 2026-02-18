@@ -3,7 +3,7 @@
 
 ### 👋 Hello there, I'm Antonio Busillo  
 
-I'm a Software Developer for [@icadsistemi](https://github.com/icadsistemi).
+I'm a Software Engineer for [@docebo](https://github.com/docebo).
 
 - 💻 Writing software mainly in Golang but looking for new languages to learn
 - 🎓 Bachelor's degree in Computer Engineering
